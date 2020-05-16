@@ -1,2 +1,2 @@
-# Android_BD
-Desarrollo de aplicaciones con Android - Semana 5 - Uso de bases de datos y arquitectura MVP
+# Android_Petagram
+Trabajo semana 3. Petagram, usando RecyclerView y ActionBar
